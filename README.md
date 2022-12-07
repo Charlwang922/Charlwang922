@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Charlwang922/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![Header](https://github.com/Charlwang922/Charlwang922/blob/41f231d6baa945f4c7b3281dfee04db145c196bc/Sky-Universe-Stars-1680-x-1050.jpg)
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation & machine learning in UC San Diego, and am currently having my master in Columbia University. I'm mainly focused on software engineering and machine learning algorithms. I have a passion for reading, painting, singing and skiing. 
 
