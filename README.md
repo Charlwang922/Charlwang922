@@ -6,7 +6,7 @@ My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation 
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+[![Twitter][1.2]][1] [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
