@@ -1,15 +1,3 @@
-![Header](https://github.com/Charlwang922/Charlwang922/blob/41f231d6baa945f4c7b3281dfee04db145c196bc/Sky-Universe-Stars-1680-x-1050.jpg)
-
-# Hello Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation & machine learning in UC San Diego, and am currently having my master in Columbia University. I'm mainly focused on software engineering and machine learning algorithms. I have a passion for reading, painting, singing and skiing. 
-
-<p align='center'>
-<a href="https://twitter.com/wang_danrui"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/charlotteyn_/"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/danrui-wang-121b9a251/"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
 <!--
 **Charlwang922/Charlwang922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header](https://github.com/Charlwang922/Charlwang922/blob/41f231d6baa945f4c7b3281dfee04db145c196bc/Sky-Universe-Stars-1680-x-1050.jpg)
+
+# Hello Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation & machine learning in UC San Diego, and am currently having my master in Columbia University. I'm mainly focused on software engineering and machine learning algorithms. I have a passion for reading, painting, singing and skiing. 
+
+<p align='center'>
+<a href="https://twitter.com/wang_danrui"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/charlotteyn_/"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/danrui-wang-121b9a251/"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+
+
