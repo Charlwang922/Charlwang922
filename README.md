@@ -34,4 +34,8 @@ My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation 
 ![](https://img.shields.io/badge/Matlab-informational?style=flat&logo=<LOGO_NAME>&color=7f5bdb)
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Charlwang922&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlwang922&layout=compact&theme=tokyonight_duo&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
