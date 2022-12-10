@@ -26,6 +26,13 @@ My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation 
 </p>
 
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&color=blueviolet)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&lcolor=violet)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=<LOGO_NAME>&color=violet)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=<LOGO_NAME>&color=violet)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=<LOGO_NAME>&color=violet)
+![](https://img.shields.io/badge/Matlab-informational?style=flat&logo=<LOGO_NAME>&color=violet)
+
+
 
 
