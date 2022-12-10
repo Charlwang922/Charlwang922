@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Charlotte Wang. I was majoring in Cognitive Science-neurocomputation & machine learning in UC San Diego, and am currently having my master in Columbia University. I'm mainly focused on software engineering and machine learning algorithms. I have a passion for reading, painting, singing and skiing. 
 
-<p align='center'>
+<p align='front'>
 <a href="https://twitter.com/wang_danrui"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/charlotteyn_/"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/danrui-wang-121b9a251/"><img height="30" src="https://github.com/Charlwang922/Charlwang922/blob/main/icon/linkedin.png?raw=true"></a>
